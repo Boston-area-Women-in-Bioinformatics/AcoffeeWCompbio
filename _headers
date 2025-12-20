@@ -1,0 +1,23 @@
+# Netlify headers file for proper MIME types
+
+/feed.xml
+  Content-Type: text/xml; charset=utf-8
+  Cache-Control: public, max-age=3600
+  X-Content-Type-Options: nosniff
+
+/rss.xslt
+  Content-Type: application/xslt+xml; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/rss-styles.css
+  Content-Type: text/css; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/*.xml
+  Content-Type: text/xml; charset=utf-8
+
+/*.xslt
+  Content-Type: application/xslt+xml; charset=utf-8
+
+/*.css
+  Content-Type: text/css; charset=utf-8

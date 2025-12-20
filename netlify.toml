@@ -5,10 +5,25 @@
   publish = "."
 
 [[headers]]
-  # Set proper headers for RSS feed
+  # Set proper headers for RSS feed (use text/xml for XSLT to work in browsers)
   for = "/feed.xml"
   [headers.values]
-    Content-Type = "application/rss+xml; charset=utf-8"
+    Content-Type = "text/xml; charset=utf-8"
+    Cache-Control = "public, max-age=3600"
+    X-Content-Type-Options = "nosniff"
+
+[[headers]]
+  # Set proper headers for XSLT stylesheet
+  for = "/rss.xslt"
+  [headers.values]
+    Content-Type = "application/xslt+xml; charset=utf-8"
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  # Set proper headers for CSS
+  for = "/rss-styles.css"
+  [headers.values]
+    Content-Type = "text/css; charset=utf-8"
     Cache-Control = "public, max-age=3600"
 
 [[headers]]
@@ -19,8 +34,8 @@
     Cache-Control = "public, max-age=86400"
 
 # Redirects (optional)
-# Redirect root to feed
+# Redirect root to index page instead of feed
 [[redirects]]
   from = "/"
-  to = "/feed.xml"
-  status = 302
+  to = "/index.html"
+  status = 200
