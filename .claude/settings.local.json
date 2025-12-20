@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python download_podcast_audio.py:*)",
+      "Bash(curl:*)",
+      "Bash(export PATH=\"/Users/lpantano/.pixi/bin:$PATH\")",
+      "Bash(pixi run:*)",
+      "Bash(ls:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -1,0 +1,21 @@
+[project]
+name = "acoffeewithcompbio"
+version = "0.1.0"
+description = "Self-hosted podcast RSS feed migration tools"
+channels = ["conda-forge"]
+platforms = ["osx-arm64", "osx-64", "linux-64", "win-64"]
+
+[dependencies]
+python = ">=3.9"
+pip = "*"
+
+[pypi-dependencies]
+feedparser = ">=6.0.0"
+requests = ">=2.31.0"
+internetarchive = ">=3.5.0"
+
+[tasks]
+download = "python download_podcast_audio.py"
+upload = "python upload_to_archive.py"
+generate-rss = "python generate_rss.py"
+preview = "python preview-server.py"

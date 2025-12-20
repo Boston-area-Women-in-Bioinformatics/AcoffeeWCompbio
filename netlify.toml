@@ -1,0 +1,26 @@
+# Netlify configuration for podcast RSS feed
+
+[build]
+  # No build step needed - just serving static files
+  publish = "."
+
+[[headers]]
+  # Set proper headers for RSS feed
+  for = "/feed.xml"
+  [headers.values]
+    Content-Type = "application/rss+xml; charset=utf-8"
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  # Set proper headers for audio files (if hosting any locally)
+  for = "/audio/*"
+  [headers.values]
+    Content-Type = "audio/mpeg"
+    Cache-Control = "public, max-age=86400"
+
+# Redirects (optional)
+# Redirect root to feed
+[[redirects]]
+  from = "/"
+  to = "/feed.xml"
+  status = 302
