@@ -79,7 +79,7 @@ pixi run ia configure  # Configure Internet Archive
   - Opens as beautiful webpage in browsers
   - Works perfectly in podcast apps
 - **Audio Hosting**: Internet Archive (free, permanent)
-- **All 12 episodes** ready to stream
+- **Season 1 episodes** ready to stream
 
 ## ✅ Final Steps
 
@@ -91,6 +91,15 @@ pixi run ia configure  # Configure Internet Archive
 2. Test your feed at: https://podba.se/validate/
 
 3. Share your new feed URL with listeners!
+
+---
+
+## Adding New Episodes
+
+See [ADDING_EPISODES.md](ADDING_EPISODES.md) for the complete guide on:
+- Adding episodes to a new season
+- Updating metadata and uploading to Internet Archive
+- Regenerating the RSS feed
 
 ---
 

@@ -19,9 +19,9 @@ from datetime import datetime
 USE_RELATIVE_URLS = True
 
 # Production URLs (update these after deploying to Netlify)
-PODCAST_LINK = "https://YOUR-SITE.netlify.app"
-FEED_URL = "https://YOUR-SITE.netlify.app/feed.xml"
-ARTWORK_URL_ABSOLUTE = "https://YOUR-SITE.netlify.app/podcast-artwork.jpeg"
+PODCAST_LINK = "https://podcast.boston-wib.org"
+FEED_URL = "https://podcast.boston-wib.org/feed.xml"
+ARTWORK_URL_ABSOLUTE = "https://podcast.boston-wib.org/podcast-artwork.jpeg"
 AUDIO_BASE_URL = "https://archive.org/download/acoffeewithcompbio"
 
 # Relative URLs for local testing and Netlify deployment
@@ -116,6 +116,7 @@ def create_episode_item(episode):
     pub_date = episode.get('published', '')
     duration = episode.get('duration', '')
     episode_num = episode.get('number', 1)
+    season_num = episode.get('season', 1)
 
     # Use Internet Archive URL if available, otherwise construct placeholder
     local_file = Path(episode.get('local_file', ''))
@@ -148,8 +149,8 @@ def create_episode_item(episode):
             <itunes:keywords>life science,data science,bioinformatics,computational biology</itunes:keywords>
             <itunes:duration>{duration}</itunes:duration>
             <itunes:episodeType>full</itunes:episodeType>
-            <itunes:season>1</itunes:season>
-            <podcast:season>1</podcast:season>
+            <itunes:season>{season_num}</itunes:season>
+            <podcast:season>{season_num}</podcast:season>
             <itunes:episode>{episode_num}</itunes:episode>
             <podcast:episode>{episode_num}</podcast:episode>
             <itunes:subtitle>{subtitle}</itunes:subtitle>
