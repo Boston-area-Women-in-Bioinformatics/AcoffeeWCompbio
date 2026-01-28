@@ -46,12 +46,12 @@
         </itunes:category>
 
         <image>
-            <url>podcast-artwork-2026.png</url>
+            <url>podcast-artwork-2026.jpg</url>
             <title>A Coffee with CompBio</title>
             <link>https://podcast.boston-wib.org</link>
         </image>
-        <itunes:image href="podcast-artwork-2026.png"/>
-        <googleplay:image href="podcast-artwork-2026.png"/>
+        <itunes:image href="podcast-artwork-2026.jpg"/>
+        <googleplay:image href="podcast-artwork-2026.jpg"/>
 
         <item>
             <title>12 New Year Resolutions For Computational Biologists</title>
@@ -76,8 +76,8 @@
             <googleplay:author>Lorena Pantano</googleplay:author>
             <googleplay:explicit>false</googleplay:explicit>
 
-            <itunes:image href="podcast-artwork-2026.png"/>
-            <googleplay:image href="podcast-artwork-2026.png"/>
+            <itunes:image href="podcast-artwork-2026.jpg"/>
+            <googleplay:image href="podcast-artwork-2026.jpg"/>
         </item>
         <item>
             <title>A Comp-bio holiday calendar: 12 tools and tips to make this holiday season a fantastic one!</title>
