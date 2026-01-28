@@ -16,16 +16,16 @@ from datetime import datetime
 # - False: Uses absolute URLs - only needed if submitting to some podcast directories
 #
 # Relative URLs work perfectly fine on Netlify and in most podcast apps!
-USE_RELATIVE_URLS = True
+USE_RELATIVE_URLS = False
 
 # Production URLs (update these after deploying to Netlify)
 PODCAST_LINK = "https://podcast.boston-wib.org"
 FEED_URL = "https://podcast.boston-wib.org/feed.xml"
-ARTWORK_URL_ABSOLUTE = "https://podcast.boston-wib.org/podcast-artwork.jpeg"
+ARTWORK_URL_ABSOLUTE = "https://podcast.boston-wib.org/podcast-artwork-2026.jpg"
 AUDIO_BASE_URL = "https://archive.org/download/acoffeewithcompbio"
 
 # Relative URLs for local testing and Netlify deployment
-ARTWORK_URL_RELATIVE = "podcast-artwork.jpeg"
+ARTWORK_URL_RELATIVE = "podcast-artwork-2026.jpg"
 
 # Choose which artwork URL to use
 ARTWORK_URL = ARTWORK_URL_RELATIVE if USE_RELATIVE_URLS else ARTWORK_URL_ABSOLUTE
