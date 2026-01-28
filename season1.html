@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Season 1 - A Coffee with CompBio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .tagline {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .back-link {
+            display: inline-block;
+            color: white;
+            text-decoration: none;
+            margin-bottom: 20px;
+            padding: 10px 20px;
+            background: rgba(255,255,255,0.2);
+            border-radius: 5px;
+            transition: background 0.2s;
+        }
+
+        .back-link:hover {
+            background: rgba(255,255,255,0.3);
+        }
+
+        .content {
+            padding: 40px;
+        }
+
+        .hosts-info {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+        }
+
+        .hosts-info h2 {
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+
+        .episode-list {
+            margin-top: 30px;
+        }
+
+        .episode {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            border-left: 4px solid #667eea;
+        }
+
+        .episode h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+        }
+
+        .episode-meta {
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 10px;
+        }
+
+        .episode-description {
+            color: #555;
+            line-height: 1.6;
+        }
+
+        .listen-link {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 8px 16px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 0.9em;
+            margin-top: 10px;
+            transition: transform 0.2s;
+        }
+
+        .listen-link:hover {
+            transform: translateY(-2px);
+        }
+
+        .footer {
+            text-align: center;
+            padding: 20px;
+            color: #999;
+            border-top: 1px solid #eee;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <a href="index.html" class="back-link">← Back to Home</a>
+            <h1>Season 1</h1>
+            <p class="tagline">A Coffee with CompBio</p>
+        </div>
+
+        <div class="content">
+            <div class="hosts-info">
+                <h2>Season 1 Hosts</h2>
+                <p><strong>Lorena Pantano</strong> and <strong>Alex Bartlett</strong></p>
+                <p>Follow them on LinkedIn: 
+                    <a href="https://www.linkedin.com/in/lpantano/" style="color: #667eea;">Lorena</a> | 
+                    <a href="https://www.linkedin.com/in/alexandra-bartlett-926b32109/" style="color: #667eea;">Alex</a>
+                </p>
+            </div>
+
+            <div class="episode-list">
+                <h2 style="color: #667eea; margin-bottom: 20px;">All Episodes</h2>
+
+                <div class="episode">
+                    <h3>Episode 12: About Us</h3>
+                    <div class="episode-meta">Published: May 27, 2025 | Duration: 06:19</div>
+                    <div class="episode-description">
+                        <p>In the introductory episode, Lorena and Alex introduce themselves and share how they got started in computational biology. They talk about their career paths, what drew them to bioinformatics, and some of the challenges and surprises they've encountered along the way.</p>
+                    </div>
+                    <a href="https://archive.org/download/acoffeewithcompbio/episode_12_About Us.mp3" class="listen-link">🎧 Listen</a>
+                </div>
+
+                <div class="episode">
+                    <h3>Episode 11: Nine Samples and Zero Cells: A Week in the Life of Single-Cell Analysis</h3>
+                    <div class="episode-meta">Published: Jun 03, 2025 | Duration: 21:48</div>
+                    <div class="episode-description">
+                        <p>Alex and Lorena dive into a recent single-cell project where everything that could go wrong, did go wrong. From sample prep issues to contamination, they discuss how to troubleshoot when your data looks nothing like you expected.</p>
+                    </div>
+                    <a href="https://archive.org/download/acoffeewithcompbio/episode_11_Nine Samples and Zero Cells_ A Week in the Life of Single-Cell Analysis.mp3" class="listen-link">🎧 Listen</a>
+                </div>
+
+                <div class="episode">
+                    <h3>Episode 10: The Thousand-Dollar Alignment</h3>
+                    <div class="episode-meta">Published: Jun 10, 2025 | Duration: 22:00</div>
+                    <div class="episode-description">
+                        <p>Lorena and Alex share the twists and turns of realizing their methylation data wasn't what it seemed. From puzzlingly low mapping rates to unexpected cloud costs caused by unoptimized compute jobs, they highlight how essential clear communication and bioinformatics-aware experimental design are to any successful project.</p>
+                    </div>
+                    <a href="https://archive.org/download/acoffeewithcompbio/episode_10_The Thousand-Dollar Alignment.mp3" class="listen-link">🎧 Listen</a>
+                </div>
+
+                <div class="episode">
+                    <h3>Episode 9: R Markdown: Because RNA-seq Code Shouldn't Be Wild-Type</h3>
+                    <div class="episode-meta">Published: Jun 26, 2025 | Duration: 21:35</div>
+                    <div class="episode-description">
+                        <p>Alex and Lorena discuss a large bulk RNA-seq project that yielded lasting changes to their group's everyday bioinformatics practices via the creation of parameterized R Markdown code templates.</p>
+                    </div>
+                    <a href="https://archive.org/download/acoffeewithcompbio/episode_09_R Markdown_ Because RNA-seq Code Shouldn't Be Wild-Type.mp3" class="listen-link">🎧 Listen</a>
+                </div>
+
+                <div class="episode">
+                    <h3>Episode 8: Fast, Private, and Publish-Ready Spatial Transcriptomics App</h3>
+                    <div class="episode-meta">Published: Jul 10, 2025 | Duration: 26:39</div>
+                    <div class="episode-description">
+                        <p>In this episode, we journey through the real-life challenges of building interactive single cell spatial data visualizations for large projects. Lorena shares her recent adventure turning mountains of data into a web app using tools like Python, R, and Vitessce.</p>
+                    </div>
+                    <a href="https://archive.org/download/acoffeewithcompbio/episode_08_Fast, Private, and Publish-Ready Spatial Transcriptomics App (Without Losing Your Mind).mp3" class="listen-link">🎧 Listen</a>
+                </div>
+
+                <div class="episode">
+                    <h3>Episode 7: R You Doing It Right? Modern Best Practices in R</h3>
+                    <div class="episode-meta">Published: Jul 23, 2025 | Duration: 18:55</div>
+                    <div class="episode-description">
+                        <p>Alex and Lorena dive into modern R programming best practices, covering everything from using renv for dependency management to proper R package structure and testing frameworks.</p>
+                    </div>
+                    <a href="https://archive.org/download/acoffeewithcompbio/episode_07_R You Doing It Right_ Modern Best Practices in R.mp3" class="listen-link">🎧 Listen</a>
+                </div>
+
+                <div class="episode">
+                    <h3>Episode 6: A coffee with Katie Hughes - First hand experience on transitioning to a Product Manager role</h3>
+                    <div class="episode-meta">Published: Aug 12, 2025 | Duration: 20:04</div>
+                    <div class="episode-description">
+                        <p>Alex and Lorena welcome Katie Hughes, their first guest, to discuss her career transition from bioinformatics to product management. Katie shares her journey and emphasizes the importance of curiosity, adaptability, and soft skills.</p>
+                    </div>
+                    <a href="https://archive.org/download/acoffeewithcompbio/episode_06_A coffee with Katie Hughes - First hand experience on transitioning to a Product Manager role.mp3" class="listen-link">🎧 Listen</a>
+                </div>
+
+                <div class="episode">
+                    <h3>Episode 5: The Spatial Transcriptomics Toolkit: Memory, Clustering, and Deconvolution</h3>
+                    <div class="episode-meta">Published: Sep 02, 2025 | Duration: 18:05</div>
+                    <div class="episode-description">
+                        <p>In this episode, Alex and Lorena tackle the computational challenges of spatial transcriptomics. Learn how BPCells can help you work with millions of cells without needing terabytes of RAM, discover how Banksy's neighborhood-aware clustering reveals tissue architecture.</p>
+                    </div>
+                    <a href="https://archive.org/download/acoffeewithcompbio/episode_05_The Spatial Transcriptomics Toolkit_ Memory, Clustering, and Deconvolution.mp3" class="listen-link">🎧 Listen</a>
+                </div>
+
+                <div class="episode">
+                    <h3>Episode 4: (Dry) Lab Notebooks: The Importance of Recordkeeping in CompBio</h3>
+                    <div class="episode-meta">Published: Sep 23, 2025 | Duration: 16:11</div>
+                    <div class="episode-description">
+                        <p>We sit down with Lina Faller, a veteran in bioinformatics with nearly two decades of experience. Lina shares why computational biologists should keep lab notebooks (yes, even if your "lab" is just a laptop). From reproducibility to institutional memory to the art of "forensic bioinformatics."</p>
+                    </div>
+                    <a href="https://archive.org/download/acoffeewithcompbio/episode_04_(Dry) Lab Notebooks_ The Importance of Recordkeeping in CompBio.mp3" class="listen-link">🎧 Listen</a>
+                </div>
+
+                <div class="episode">
+                    <h3>Episode 3: A coffee with Saranya Canchi - Fail, learn, repeat, the bioinformatics way!</h3>
+                    <div class="episode-meta">Published: Oct 14, 2025 | Duration: 13:55</div>
+                    <div class="episode-description">
+                        <p>Hosts Alex Bartlett and Lorena Pantano sit down with Saranya Canchi, a computational biologist specializing in neuroscience. Together, they explore how to thrive as a self-directed learner in bioinformatics—tackling early challenges, learning through projects, and building problem-solving resilience.</p>
+                    </div>
+                    <a href="https://archive.org/download/acoffeewithcompbio/episode_03_A coffee with Saranya Canchi - Fail, learn, repeat, the bioinformatics way!.mp3" class="listen-link">🎧 Listen</a>
+                </div>
+
+                <div class="episode">
+                    <h3>Episode 2: Collaboration Survival Guide for CompBio</h3>
+                    <div class="episode-meta">Published: Nov 11, 2025 | Duration: 16:59</div>
+                    <div class="episode-description">
+                        <p>What really happens when a wet lab scientist and a computational biologist sit down to plan an experiment? Lorena Pantano and Alex Bartlett chat with Amulya about the real talk nobody tells you about scientific collaborations.</p>
+                    </div>
+                    <a href="https://archive.org/download/acoffeewithcompbio/episode_02_Collaboration Survival Guide for CompBio.mp3" class="listen-link">🎧 Listen</a>
+                </div>
+
+                <div class="episode">
+                    <h3>Episode 1: A Comp-bio holiday calendar: 12 tools and tips to make this holiday season a fantastic one!</h3>
+                    <div class="episode-meta">Published: Dec 16, 2025 | Duration: 14:02</div>
+                    <div class="episode-description">
+                        <p>As our first season comes to an end, we wish all of our listeners a very happy holiday season! In this episode, Lorena Pantano and Alex Bartlett present 12 cool things in bioinformatics. From a tool that will rescue you out of Python dependency hell to one that can generate a functional genome.</p>
+                    </div>
+                    <a href="https://archive.org/download/acoffeewithcompbio/episode_01_A Comp-bio holiday calendar_ 12 tools and tips to make this holiday season a fantastic one!.mp3" class="listen-link">🎧 Listen</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>© 2026 A Coffee with CompBio • Hosted independently</p>
+        </div>
+    </div>
+</body>
+</html>

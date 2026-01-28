@@ -155,16 +155,37 @@ Use HTML tags in descriptions:
 
 ## Step 4: Upload to Internet Archive
 
-Upload all audio files to Internet Archive:
+### Option A: Upload a Single File (Recommended)
+
+Upload just the new episode's audio file:
+
+```bash
+pixi run upload-single "audio/episode_01_Your Episode Title.mp3"
+```
+
+This command:
+- Uploads only the specified file to the `acoffeewithcompbio` collection
+- Automatically updates `episode_metadata.json` with the `archive_url` for that episode
+- Faster and safer than uploading all files
+
+**Example:**
+```bash
+pixi run upload-single "audio/episode_01_202601_12-New-Year-Resolutions-For-Computational-Biologists.m4a"
+```
+
+### Option B: Upload All Files
+
+Upload all audio files at once (use with caution):
 
 ```bash
 pixi run upload
 ```
 
 This command:
-- Uploads new files to the `acoffeewithcompbio` collection
+- Uploads all files in `audio/` directory to the `acoffeewithcompbio` collection
 - Automatically updates `episode_metadata.json` with the `archive_url` for each episode
 - Skips files that are already uploaded
+- Can be slow if you have many files
 
 **First-time setup:** If you haven't configured Internet Archive credentials:
 ```bash
@@ -226,7 +247,7 @@ cp episodes_markdown/TEMPLATE.md episodes_markdown/S02E01_welcome-to-season-2.md
 
 ### 3. Add to metadata (via AI agent or manually)
 
-**Option A - AI Agent:**
+**Option A - AI-single "audio/episode_01_202601_12-New-Year-Resolutions-For-Computational-Biologists.m4a" Agent:**
 > "Add the episode from episodes_markdown/S02E01_welcome-to-season-2.md to episode_metadata.json"
 
 **Option B - Manual:**
@@ -270,7 +291,8 @@ git push
 
 | Command | Description |
 |---------|-------------|
-| `pixi run upload` | Upload audio files to Internet Archive |
+| `pixi run upload-single <file>` | Upload a single audio file to Internet Archive |
+| `pixi run upload` | Upload all audio files to Internet Archive |
 | `pixi run generate-rss` | Generate feed.xml from metadata |
 | `pixi run preview` | Start local preview server |
 | `pixi run ia configure` | Configure Internet Archive credentials |
