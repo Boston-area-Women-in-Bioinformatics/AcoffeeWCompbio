@@ -46,12 +46,12 @@
         </itunes:category>
 
         <image>
-            <url>podcast-artwork.jpeg</url>
+            <url>podcast-artwork-2026.png</url>
             <title>A Coffee with CompBio</title>
             <link>https://podcast.boston-wib.org</link>
         </image>
-        <itunes:image href="podcast-artwork.jpeg"/>
-        <googleplay:image href="podcast-artwork.jpeg"/>
+        <itunes:image href="podcast-artwork-2026.png"/>
+        <googleplay:image href="podcast-artwork-2026.png"/>
 
         <item>
             <title>12 New Year Resolutions For Computational Biologists</title>
