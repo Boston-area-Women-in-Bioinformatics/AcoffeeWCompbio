@@ -15,8 +15,8 @@
         <description>Step into the world where algorithms meet biology! Hosts Lorena Pantano and Alex Bartlett, two dynamic women in science, unravel the complexities and curiosities of computational biology. Each episode, they break down complicated analyses, demystify big data approaches, and share real-world stories from their own bioinformatics research adventures. Whether you’re a seasoned bioinformatician or just bio-curious, Alex and Lorena's engaging banter, expert interviews, and practical tips will guide you through the fascinating process of turning raw biological data into meaningful scientific discoveries. Join them as they make computation in the life sciences accessible—and even a little bit fun!</description>
         <language>en</language>
         <copyright>Lorena Pantano</copyright>
-        <lastBuildDate>Mon, 26 Jan 2026 20:44:49 +0000</lastBuildDate>
-        <pubDate>Mon, 26 Jan 2026 20:44:49 +0000</pubDate>
+        <lastBuildDate>Mon, 26 Jan 2026 22:57:04 +0000</lastBuildDate>
+        <pubDate>Mon, 26 Jan 2026 22:57:04 +0000</pubDate>
         <generator>Self-hosted podcast feed</generator>
         <spotify:countryOfOrigin>us</spotify:countryOfOrigin>
 
@@ -54,6 +54,32 @@
         <googleplay:image href="podcast-artwork.jpeg"/>
 
         <item>
+            <title>12 New Year Resolutions For Computational Biologists</title>
+            <guid isPermaLink="false">3d8db2514d3b734eb81fadac4b402868e5e11f53</guid>
+            <description><![CDATA[<p>New year, new episode, new comp-bio goals and new hosts. But first, we wish you a very Happy New Year! Most new year's resolutions fail due to lack of clarity, so to make it easier, we begin our first episode of the season with a list that hopefully inspires you. From using AI tools to make your life easier to documenting your own code better, we are bringing resolutions every computational biologist needs this new year. Tune into the latest episode of "A Coffee with CompBio" where <b>Sharvari Narendra</b> and <b>Saba Nafees</b> present 12 awesome resolutions for the new year.</p><p><br /></p><p>If you think you have a better one, let us know in the comments and we will give you a shoutout in the next episode!</p><p><br /></p><p><b>Links:</b></p><ul><li><a href="https://podcast.boston-wib.org">Season 1 Archive</a></li></ul><p><br /></p><p>Thanks to <a href="https://www.linkedin.com/in/amulya-shastry/"><b>Amulya Shastry</b></a> for editing and management support and <b>Dina Issakova</b> for social media support and the cover art!.</p><p><br /></p><p>Follow us on LinkedIn: <a href="https://www.linkedin.com/in/saba-nafees/">https://www.linkedin.com/in/saba-nafees/</a> and <a href="https://www.linkedin.com/in/sharvarinarendra/">https://www.linkedin.com/in/sharvarinarendra/</a></p>]]></description>
+            <content:encoded><![CDATA[<p>New year, new episode, new comp-bio goals and new hosts. But first, we wish you a very Happy New Year! Most new year's resolutions fail due to lack of clarity, so to make it easier, we begin our first episode of the season with a list that hopefully inspires you. From using AI tools to make your life easier to documenting your own code better, we are bringing resolutions every computational biologist needs this new year. Tune into the latest episode of "A Coffee with CompBio" where <b>Sharvari Narendra</b> and <b>Saba Nafees</b> present 12 awesome resolutions for the new year.</p><p><br /></p><p>If you think you have a better one, let us know in the comments and we will give you a shoutout in the next episode!</p><p><br /></p><p><b>Links:</b></p><ul><li><a href="https://podcast.boston-wib.org">Season 1 Archive</a></li></ul><p><br /></p><p>Thanks to <a href="https://www.linkedin.com/in/amulya-shastry/"><b>Amulya Shastry</b></a> for editing and management support and <b>Dina Issakova</b> for social media support and the cover art!.</p><p><br /></p><p>Follow us on LinkedIn: <a href="https://www.linkedin.com/in/saba-nafees/">https://www.linkedin.com/in/saba-nafees/</a> and <a href="https://www.linkedin.com/in/sharvarinarendra/">https://www.linkedin.com/in/sharvarinarendra/</a></p>]]></content:encoded>
+            <pubDate>Mon, 27 Jan 2026 12:00:00 +0000</pubDate>
+            <enclosure url="https://archive.org/download/acoffeewithcompbio/episode_01_202601_12-New-Year-Resolutions-For-Computational-Biologists.m4a" length="18612769" type="audio/mpeg"/>
+            <link>https://podcast.boston-wib.org</link>
+
+            <itunes:author>Lorena Pantano</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:keywords>life science,data science,bioinformatics,computational biology</itunes:keywords>
+            <itunes:duration>18:45</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>2</itunes:season>
+            <podcast:season>2</podcast:season>
+            <itunes:episode>1</itunes:episode>
+            <podcast:episode>1</podcast:episode>
+            <itunes:subtitle>New year, new episode, new comp-bio goals and new hosts. But first, we wish you a very Happy New Year! Most new year resoluti...</itunes:subtitle>
+
+            <googleplay:author>Lorena Pantano</googleplay:author>
+            <googleplay:explicit>false</googleplay:explicit>
+
+            <itunes:image href="podcast-artwork-2026.png"/>
+            <googleplay:image href="podcast-artwork-2026.png"/>
+        </item>
+        <item>
             <title>A Comp-bio holiday calendar: 12 tools and tips to make this holiday season a fantastic one!</title>
             <guid isPermaLink="false">2a50ba8668d2f766d5933409409b770b503e061c</guid>
             <description><![CDATA[<p>As our first season comes to an end, we would like to wish all of our listeners a very<b> happy holiday season</b>. But wait! We also have some presents for our listeners. In this episode of “A Coffee with Compbio”, Lorena Pantano and Alex Bartlett present 12 cool things in bioinformatics. </p><p><br /></p><p>From a tool that will rescue you out of Python dependency hell to the one that can generate a functional genome, they discuss some really innovative tools that have been rolled out this year. Tune in to listen to these 12 tools and how you might use them! </p><p><br /></p><p>And find out about the exciting announcement we have at the end!</p><p><br /></p><p>Send us your comments, questions, and suggestions using this form 📁: <a href="https://forms.gle/ncwo6HZeN4uA9gPg7">https://forms.gle/ncwo6HZeN4uA9gPg7</a></p><p><br /></p><p>Thanks to<a href="https://www.linkedin.com/in/amulya-shastry/"> <b><u>Amulya Shastry</u></b></a>for editing and management support.</p><p><br /></p><p>Follow us on LinkedIn: <a href="https://www.linkedin.com/in/lpantano/">https://www.linkedin.com/in/lpantano/</a>  and <a href="https://www.linkedin.com/in/alexandra-bartlett-926b32109/">https://www.linkedin.com/in/alexandra-bartlett-926b32109/</a></p><p><br /></p><p>If you enjoyed the episode, please subscribe and leave us a review. Subscribe here: <a href="https://podcast.ausha.co/a-coffee-with-compbio?s=1">https://podcast.ausha.co/a-coffee-with-compbio?s=1</a></p><br /><p>Hosted on Ausha. See <a href="https://ausha.co/privacy-policy">ausha.co/privacy-policy</a> for more information.</p>]]></description>
@@ -69,8 +95,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:season>1</itunes:season>
             <podcast:season>1</podcast:season>
-            <itunes:episode>1</itunes:episode>
-            <podcast:episode>1</podcast:episode>
+            <itunes:episode>12</itunes:episode>
+            <podcast:episode>12</podcast:episode>
             <itunes:subtitle>As our first season comes to an end, we would like to wish all of our listeners a very happy holiday season. But wait! We als...</itunes:subtitle>
 
             <googleplay:author>Lorena Pantano</googleplay:author>
@@ -95,8 +121,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:season>1</itunes:season>
             <podcast:season>1</podcast:season>
-            <itunes:episode>2</itunes:episode>
-            <podcast:episode>2</podcast:episode>
+            <itunes:episode>11</itunes:episode>
+            <podcast:episode>11</podcast:episode>
             <itunes:subtitle>What really happens when a wet lab scientist and a computational biologist sit down to plan an experiment? Spoiler: it's not ...</itunes:subtitle>
 
             <googleplay:author>Lorena Pantano</googleplay:author>
@@ -121,8 +147,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:season>1</itunes:season>
             <podcast:season>1</podcast:season>
-            <itunes:episode>3</itunes:episode>
-            <podcast:episode>3</podcast:episode>
+            <itunes:episode>10</itunes:episode>
+            <podcast:episode>10</podcast:episode>
             <itunes:subtitle>In this episode of A Coffee with Comp Bio, hosts Alex Bartlett and Lorena Pantano sit down with Saranya Canchi, a computation...</itunes:subtitle>
 
             <googleplay:author>Lorena Pantano</googleplay:author>
@@ -147,8 +173,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:season>1</itunes:season>
             <podcast:season>1</podcast:season>
-            <itunes:episode>4</itunes:episode>
-            <podcast:episode>4</podcast:episode>
+            <itunes:episode>9</itunes:episode>
+            <podcast:episode>9</podcast:episode>
             <itunes:subtitle>Grab your coffee and join us for another episode of Coffee with CompBio! This time, we kick things off with Amulya, a PhD stu...</itunes:subtitle>
 
             <googleplay:author>Lorena Pantano</googleplay:author>
@@ -173,8 +199,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:season>1</itunes:season>
             <podcast:season>1</podcast:season>
-            <itunes:episode>5</itunes:episode>
-            <podcast:episode>5</podcast:episode>
+            <itunes:episode>8</itunes:episode>
+            <podcast:episode>8</podcast:episode>
             <itunes:subtitle>In this episode, Alex and Lorena tackle the computational challenges of spatial transcriptomics. Learn how BPCells can help y...</itunes:subtitle>
 
             <googleplay:author>Lorena Pantano</googleplay:author>
@@ -199,8 +225,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:season>1</itunes:season>
             <podcast:season>1</podcast:season>
-            <itunes:episode>6</itunes:episode>
-            <podcast:episode>6</podcast:episode>
+            <itunes:episode>7</itunes:episode>
+            <podcast:episode>7</podcast:episode>
             <itunes:subtitle>Alex Barlett and Lorena Pantano welcome Katie Hughes, their first guest, to discuss her career transition from bioinformatics...</itunes:subtitle>
 
             <googleplay:author>Lorena Pantano</googleplay:author>
@@ -225,8 +251,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:season>1</itunes:season>
             <podcast:season>1</podcast:season>
-            <itunes:episode>7</itunes:episode>
-            <podcast:episode>7</podcast:episode>
+            <itunes:episode>6</itunes:episode>
+            <podcast:episode>6</podcast:episode>
             <itunes:subtitle>Alex and I dig into the tricks and tips that'll actually make your R code work better. We're talking about ditching those old...</itunes:subtitle>
 
             <googleplay:author>Lorena Pantano</googleplay:author>
@@ -251,8 +277,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:season>1</itunes:season>
             <podcast:season>1</podcast:season>
-            <itunes:episode>8</itunes:episode>
-            <podcast:episode>8</podcast:episode>
+            <itunes:episode>5</itunes:episode>
+            <podcast:episode>5</podcast:episode>
             <itunes:subtitle>In this episode, we journey through the real-life challenges of building interactive single cell spatial data visualizations ...</itunes:subtitle>
 
             <googleplay:author>Lorena Pantano</googleplay:author>
@@ -277,8 +303,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:season>1</itunes:season>
             <podcast:season>1</podcast:season>
-            <itunes:episode>9</itunes:episode>
-            <podcast:episode>9</podcast:episode>
+            <itunes:episode>4</itunes:episode>
+            <podcast:episode>4</podcast:episode>
             <itunes:subtitle>Alex and Lorena discuss a large bulk RNA-seq project that yielded lasting changes to their group’s everyday bioinformatics pr...</itunes:subtitle>
 
             <googleplay:author>Lorena Pantano</googleplay:author>
@@ -303,8 +329,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:season>1</itunes:season>
             <podcast:season>1</podcast:season>
-            <itunes:episode>10</itunes:episode>
-            <podcast:episode>10</podcast:episode>
+            <itunes:episode>3</itunes:episode>
+            <podcast:episode>3</podcast:episode>
             <itunes:subtitle>In this episode of A Coffee with CompBio, Lorena and Alex share the twists and turns of realizing their methylation data wasn...</itunes:subtitle>
 
             <googleplay:author>Lorena Pantano</googleplay:author>
@@ -329,8 +355,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:season>1</itunes:season>
             <podcast:season>1</podcast:season>
-            <itunes:episode>11</itunes:episode>
-            <podcast:episode>11</podcast:episode>
+            <itunes:episode>2</itunes:episode>
+            <podcast:episode>2</podcast:episode>
             <itunes:subtitle>In our first episode, Alex and Lorena dive into the messy reality of processing single-cell RNA-seq data. What started as a s...</itunes:subtitle>
 
             <googleplay:author>Lorena Pantano</googleplay:author>
@@ -355,8 +381,8 @@
             <itunes:episodeType>full</itunes:episodeType>
             <itunes:season>1</itunes:season>
             <podcast:season>1</podcast:season>
-            <itunes:episode>12</itunes:episode>
-            <podcast:episode>12</podcast:episode>
+            <itunes:episode>1</itunes:episode>
+            <podcast:episode>1</podcast:episode>
             <itunes:subtitle>In the introductory episode, Lorena and Alex introduce themselves and share how they got started in computational biology. Th...</itunes:subtitle>
 
             <googleplay:author>Lorena Pantano</googleplay:author>

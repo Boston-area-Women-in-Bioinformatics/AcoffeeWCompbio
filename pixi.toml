@@ -17,5 +17,6 @@ internetarchive = ">=3.5.0"
 [tasks]
 download = "python download_podcast_audio.py"
 upload = "python upload_to_archive.py"
+upload-single = "python upload_single_file.py"
 generate-rss = "python generate_rss.py"
 preview = "python preview-server.py"
