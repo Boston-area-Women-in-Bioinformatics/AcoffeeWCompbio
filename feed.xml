@@ -50,7 +50,7 @@
             <title>A Coffee with CompBio</title>
             <link>https://podcast.boston-wib.org</link>
         </image>
-        <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
+        <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg?v=2026"/>
         <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
 
         <item>
@@ -59,7 +59,7 @@
             <description><![CDATA[<p>New year, new episode, new comp-bio goals and new hosts. But first, we wish you a very Happy New Year! Most new year's resolutions fail due to lack of clarity, so to make it easier, we begin our first episode of the season with a list that hopefully inspires you. From using AI tools to make your life easier to documenting your own code better, we are bringing resolutions every computational biologist needs this new year. Tune into the latest episode of "A Coffee with CompBio" where <b>Sharvari Narendra</b> and <b>Saba Nafees</b> present 12 awesome resolutions for the new year.</p><p><br /></p><p>If you think you have a better one, let us know in the comments and we will give you a shoutout in the next episode!</p><p><br /></p><p><b>Links:</b></p><ul><li><a href="https://podcast.boston-wib.org">Season 1 Archive</a></li></ul><p><br /></p><p>Thanks to <a href="https://www.linkedin.com/in/amulya-shastry/"><b>Amulya Shastry</b></a> for editing and management support and <b>Dina Issakova</b> for social media support and the cover art!.</p><p><br /></p><p>Follow us on LinkedIn: <a href="https://www.linkedin.com/in/saba-nafees/">https://www.linkedin.com/in/saba-nafees/</a> and <a href="https://www.linkedin.com/in/sharvarinarendra/">https://www.linkedin.com/in/sharvarinarendra/</a></p>]]></description>
             <content:encoded><![CDATA[<p>New year, new episode, new comp-bio goals and new hosts. But first, we wish you a very Happy New Year! Most new year's resolutions fail due to lack of clarity, so to make it easier, we begin our first episode of the season with a list that hopefully inspires you. From using AI tools to make your life easier to documenting your own code better, we are bringing resolutions every computational biologist needs this new year. Tune into the latest episode of "A Coffee with CompBio" where <b>Sharvari Narendra</b> and <b>Saba Nafees</b> present 12 awesome resolutions for the new year.</p><p><br /></p><p>If you think you have a better one, let us know in the comments and we will give you a shoutout in the next episode!</p><p><br /></p><p><b>Links:</b></p><ul><li><a href="https://podcast.boston-wib.org">Season 1 Archive</a></li></ul><p><br /></p><p>Thanks to <a href="https://www.linkedin.com/in/amulya-shastry/"><b>Amulya Shastry</b></a> for editing and management support and <b>Dina Issakova</b> for social media support and the cover art!.</p><p><br /></p><p>Follow us on LinkedIn: <a href="https://www.linkedin.com/in/saba-nafees/">https://www.linkedin.com/in/saba-nafees/</a> and <a href="https://www.linkedin.com/in/sharvarinarendra/">https://www.linkedin.com/in/sharvarinarendra/</a></p>]]></content:encoded>
             <pubDate>Mon, 27 Jan 2026 12:00:00 +0000</pubDate>
-            <enclosure url="https://archive.org/download/acoffeewithcompbio/episode_01_202601_12-New-Year-Resolutions-For-Computational-Biologists.m4a" length="18612769" type="audio/mpeg"/>
+            <enclosure url="https://archive.org/download/acoffeewithcompbio/episode_01_202601_12-New-Year-Resolutions-For-Computational-Biologists.m4a" length="18612769" type="audio/x-m4a"/>
             <link>https://podcast.boston-wib.org</link>
 
             <itunes:author>Lorena Pantano</itunes:author>
@@ -75,9 +75,6 @@
 
             <googleplay:author>Lorena Pantano</googleplay:author>
             <googleplay:explicit>false</googleplay:explicit>
-
-            <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
-            <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
         </item>
         <item>
             <title>A Comp-bio holiday calendar: 12 tools and tips to make this holiday season a fantastic one!</title>
@@ -101,9 +98,6 @@
 
             <googleplay:author>Lorena Pantano</googleplay:author>
             <googleplay:explicit>false</googleplay:explicit>
-
-            <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
-            <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
         </item>
         <item>
             <title>Collaboration Survival Guide for CompBio</title>
@@ -127,9 +121,6 @@
 
             <googleplay:author>Lorena Pantano</googleplay:author>
             <googleplay:explicit>false</googleplay:explicit>
-
-            <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
-            <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
         </item>
         <item>
             <title>A coffee with Saranya Canchi - Fail, learn, repeat, the bioinformatics way!</title>
@@ -153,9 +144,6 @@
 
             <googleplay:author>Lorena Pantano</googleplay:author>
             <googleplay:explicit>false</googleplay:explicit>
-
-            <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
-            <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
         </item>
         <item>
             <title>(Dry) Lab Notebooks: The Importance of Recordkeeping in CompBio</title>
@@ -179,9 +167,6 @@
 
             <googleplay:author>Lorena Pantano</googleplay:author>
             <googleplay:explicit>false</googleplay:explicit>
-
-            <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
-            <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
         </item>
         <item>
             <title>The Spatial Transcriptomics Toolkit: Memory, Clustering, and Deconvolution</title>
@@ -205,9 +190,6 @@
 
             <googleplay:author>Lorena Pantano</googleplay:author>
             <googleplay:explicit>false</googleplay:explicit>
-
-            <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
-            <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
         </item>
         <item>
             <title>A coffee with Katie Hughes - First hand experience on transitioning to a Product Manager role</title>
@@ -231,9 +213,6 @@
 
             <googleplay:author>Lorena Pantano</googleplay:author>
             <googleplay:explicit>false</googleplay:explicit>
-
-            <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
-            <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
         </item>
         <item>
             <title>R You Doing It Right? Modern Best Practices in R</title>
@@ -257,9 +236,6 @@
 
             <googleplay:author>Lorena Pantano</googleplay:author>
             <googleplay:explicit>false</googleplay:explicit>
-
-            <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
-            <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
         </item>
         <item>
             <title>Fast, Private, and Publish-Ready Spatial Transcriptomics App (Without Losing Your Mind)</title>
@@ -283,9 +259,6 @@
 
             <googleplay:author>Lorena Pantano</googleplay:author>
             <googleplay:explicit>false</googleplay:explicit>
-
-            <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
-            <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
         </item>
         <item>
             <title>R Markdown: Because RNA-seq Code Shouldn't Be Wild-Type</title>
@@ -309,9 +282,6 @@
 
             <googleplay:author>Lorena Pantano</googleplay:author>
             <googleplay:explicit>false</googleplay:explicit>
-
-            <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
-            <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
         </item>
         <item>
             <title>The Thousand-Dollar Alignment</title>
@@ -335,9 +305,6 @@
 
             <googleplay:author>Lorena Pantano</googleplay:author>
             <googleplay:explicit>false</googleplay:explicit>
-
-            <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
-            <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
         </item>
         <item>
             <title>Nine Samples and Zero Cells: A Week in the Life of Single-Cell Analysis</title>
@@ -361,9 +328,6 @@
 
             <googleplay:author>Lorena Pantano</googleplay:author>
             <googleplay:explicit>false</googleplay:explicit>
-
-            <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
-            <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
         </item>
         <item>
             <title>About Us</title>
@@ -387,9 +351,6 @@
 
             <googleplay:author>Lorena Pantano</googleplay:author>
             <googleplay:explicit>false</googleplay:explicit>
-
-            <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
-            <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
         </item>
     </channel>
 </rss>
