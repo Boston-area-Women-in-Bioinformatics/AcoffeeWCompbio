@@ -4,6 +4,17 @@
   "episodes": [
     {
       "season": 2,
+      "number": 4,
+      "title": "Behind the \"We'll Be in Touch\" Emails: ArkeaBio's Lauren and Kaye on How to Get Hired in Bioinformatics",
+      "description": "<p>What does it really take to land a bioinformatics role? In this episode, we sit down with Lauren Fitch, the Head of Computational Biology at ArkeaBio and Kaye Guerard-Hatziioannou, HR Business Partner at ArkeaBio, to break down how a Bioinformatics Software Engineer position actually gets filled — from resume screening to interview rounds, and the things hiring managers wish candidates knew. Whether you're early-career or mid-career, this one's full of practical, behind-the-scenes advice you won't find in a job description.</p><p><br /></p><p>Thanks to <b>Amulya Shastry</b> for editing and management support, <b>Dina Issakova</b> for cover art and <b>Valisha Shah</b> for social media support.</p><p><br /></p><p>Follow us on LinkedIn: <a href=\"https://www.linkedin.com/in/saba-nafees/\">Saba Nafees</a> and <a href=\"https://www.linkedin.com/in/sharvarinarendra/\">Sharvari Narendra</a></p><p><br /></p><p>Go through all the podcast episodes on the Boston Women in Bioinformatics website: <a href=\"https://boston-wib.org/category/podcast\">boston-wib.org</a></p>",
+      "published": "Tue, 29 Apr 2026 12:00:00 +0000",
+      "duration": "51:28",
+      "original_audio_url": "",
+      "local_file": "audio/Season_2_episode_4.mp3",
+      "archive_url": "https://archive.org/download/acoffeewithcompbio_202604/Season_2_episode_4.mp3"
+    },
+    {
+      "season": 2,
       "number": 3,
       "title": "Claude Code for Bioinformatics",
       "description": "<p>Claude code has taken over the tech world like a storm. But how good is Claude code when it comes to Bioinformatics and Computational Biology? In this episode of A Coffee with Compbio, Saba and Amulya take on the task of testing claude code on a simple task of performing QC on a Peripheral Blood Mononuclear Cells (PBMC) single cell dataset. They find out the dos and don’t with a tool like claude code while comparing it to how a real bioinformatician would analyze these results. Tune into this episode to learn more about Claude code for Bioinformatics. Bonus - We share all the results, markdown files and the single cell RNA QC skills markdown file that you can try on your own!</p><p><br /></p><p><b>Links:</b></p><ul><li><a href=\"https://github.com/Boston-area-Women-in-Bioinformatics/A_coffee_with_compbio_resources/tree/main\">All files related to this episode</a></li><li><a href=\"https://huggingface.co/spaces/Ashastry2/journalMatch\">JournalMatch</a>: A vibe-coded tool for finding the right match for your publication by Amulya</li></ul><p><br /></p><p><a href=\"https://www.linkedin.com/in/sharvarinarendra/\">Sharvari Narendra</a>: Co-host & Co-chair \\ <a href=\"https://www.linkedin.com/in/saba-nafees/\">Saba Nafees</a> : Co-host & Co-chair \\ <a href=\"https://www.linkedin.com/in/amulya-shastry/\">Amulya Shastry</a> : Co-host & Production Manager \\ <a href=\"https://www.linkedin.com/in/dinaissakova/\">Dina Issakova</a> : Co-host & Creative Director \\ <a href=\"https://www.linkedin.com/in/valisha/\">Valisha Shah</a> : Marketing Lead \\</p><p><br /></p><p>If you enjoyed the episode, please subscribe and leave us a review. Subscribe here:</p>",

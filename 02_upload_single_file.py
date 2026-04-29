@@ -52,6 +52,13 @@ def upload_single_file(audio_file_path):
             verbose=True
         )
         
+        # result is a list of Response objects; check all succeeded
+        failed = [r for r in result if r is not None and not r.ok]
+        if failed:
+            for r in failed:
+                print(f"  ❌ Upload failed: HTTP {r.status_code} {r.text[:200]}")
+            return False
+
         archive_url = f"https://archive.org/download/{ARCHIVE_IDENTIFIER}/{audio_file.name}"
         print(f"  ✓ Uploaded: {archive_url}")
         
