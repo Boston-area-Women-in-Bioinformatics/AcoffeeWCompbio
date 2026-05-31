@@ -3,6 +3,15 @@
   "podcast_description": "Step into the world where algorithms meet biology! Hosts Lorena Pantano and Alex Bartlett, two dynamic women in science, unravel the complexities and curiosities of computational biology. Each episode, they break down complicated analyses, demystify big data approaches, and share real-world stories from their own bioinformatics research adventures. Whether you’re a seasoned bioinformatician or just bio-curious, Alex and Lorena's engaging banter, expert interviews, and practical tips will guide you through the fascinating process of turning raw biological data into meaningful scientific discoveries. Join them as they make computation in the life sciences accessible—and even a little bit fun!\n\nHosted on Ausha. See ausha.co/privacy-policy for more information.",
   "episodes": [
     {
+     "number": 5,
+      "title": "Wired Different: Neurodiversity in Bioinformatics",
+      "description": "<p>May is mental health awareness month and we're highlighting neurodiversity with an open and insightful conversation centered on lived experience and understanding. In this episode, our co-host Dina Issakova sits down with two guests Isabella Chawrun and Lorena Pantano who share their experiences with ADHD and autism. Together, they discuss challenges, strengths, misconceptions, diagnosis journeys, and what neurodiversity looks like in everyday life and Bioinformatics.</p><p><br /></p><p>5086ef111f0a90bedc0162713250a713eaf7538e</p><p><br /></p><p><a href=\"https://www.linkedin.com/in/sharvarinarendra/\">Sharvari Narendra</a>: Co-host & Co-chair <a href=\"https://www.linkedin.com/in/saba-nafees/\">Saba Nafees</a> : Co-host & Co-chair <a href=\"https://www.linkedin.com/in/amulya-shastry/\">Amulya Shastry</a> : Co-host & Production Manager <a href=\"https://www.linkedin.com/in/dinaissakova/\">Dina Issakova</a> : Co-host & Creative Director</p><p><br /></p><p><a href=\"https://www.linkedin.com/in/yaseswinineelamraju/\">Yaseswini Neelamraju</a>: Co-editor</p><p><br /></p><p>If you enjoyed the episode, please subscribe and leave us a review. Subscribe here:</p>",
+      "published": "Sat, 30 May 2026 13:30:00 +0000",
+      "duration": "39:03",
+      "original_audio_url": "",
+      "local_file": "audio/Season_2_Episode_05_Neurodiversity_in_Bioinformatics.m4a",
+      "archive_url": "https://archive.org/download/season-2-episode-05-neurodiversity-in-bioinformatics/Season_2_Episode_05_Neurodiversity_in_Bioinformatics.m4a"},
+    {
       "season": 2,
       "number": 4,
       "title": "Behind the \"We'll Be in Touch\" Emails: ArkeaBio's Lauren and Kaye on How to Get Hired in Bioinformatics",
