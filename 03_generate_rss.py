@@ -22,7 +22,7 @@ USE_RELATIVE_URLS = False
 PODCAST_LINK = "https://podcast.boston-wib.org"
 FEED_URL = "https://podcast.boston-wib.org/feed.xml"
 ARTWORK_URL_ABSOLUTE = "https://podcast.boston-wib.org/podcast-artwork-2026.jpg"
-AUDIO_BASE_URL = "https://archive.org/download/acoffeewithcompbio"
+AUDIO_BASE_URL = "https://archive.org/download/valisha-acoffeewithcompbio-test"
 
 # Relative URLs for local testing and Netlify deployment
 ARTWORK_URL_RELATIVE = "podcast-artwork-2026.jpg"
