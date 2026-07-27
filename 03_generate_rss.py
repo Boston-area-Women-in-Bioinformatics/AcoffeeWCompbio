@@ -142,7 +142,7 @@ def create_episode_item(episode):
             <description><![CDATA[{description}]]></description>
             <content:encoded><![CDATA[{description}]]></content:encoded>
             <pubDate>{pub_date}</pubDate>
-            <enclosure url="{audio_url}" length="{file_size}" type="audio/mpeg"/>
+            <enclosure url="{audio_url}" length="{file_size}" type="{audio_type}"/>
             <link>{PODCAST_LINK}</link>
 
             <itunes:author>Lorena Pantano</itunes:author>
