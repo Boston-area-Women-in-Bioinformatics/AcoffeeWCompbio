@@ -8,6 +8,7 @@ import json
 import hashlib
 from pathlib import Path
 from datetime import datetime
+from xml.sax.saxutils import escape
 
 # Configuration - Update these with your actual values
 #
@@ -136,7 +137,7 @@ def create_episode_item(episode):
     subtitle = subtitle_text[:125] + '...' if len(subtitle_text) > 125 else subtitle_text
 
     item = f'''        <item>
-            <title>{title}</title>
+            <title>{escape(title)}</title>
             <guid isPermaLink="false">{guid}</guid>
             <description><![CDATA[{description}]]></description>
             <content:encoded><![CDATA[{description}]]></content:encoded>
