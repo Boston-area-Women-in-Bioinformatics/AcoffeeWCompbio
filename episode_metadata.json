@@ -4,6 +4,17 @@
   "episodes": [
     {
       "season": 2,
+      "number": 9,
+      "title": "\"Who Do You Know?\" — Networking in Bioinformatics",
+      "description": "<p>Networking is really just talking, but doing it well in bioinformatics takes strategy. Join Dina and Saba as they break down how to make meaningful connections at conferences, local events, and online, plus some unconventional tips and how to keep your network alive through career transitions. Whether you're a grad student or job hunting, you'll leave with practical steps you can use this week.</p><p><br /></p><p><b>Links:</b></p><ul><li><a href=\"https://podcast.boston-wib.org\">Season 1 Archive</a></li></ul><p><br /></p><p>Thanks to <b>Amulya Shastry</b> and <b>Yaseswini Neelamraju</b> for editing and management support, <b>Dina Issakova</b> for the cover art and <b>Valisha Shah</b> and <b>Elyse Loveman</b> for social media support.</p><p><br /></p><p>Follow us on LinkedIn: https://www.linkedin.com/in/saba-nafees/ and https://www.linkedin.com/in/sharvarinarendra/</p>",
+      "published": "Thu, 1 Oct 2026 11:03:00 +0000",
+      "duration": "30:44",
+      "original_audio_url": "",
+      "local_file": "audio/BWI_SepEpisode_edited_2.m4a",
+      "archive_url": "https://ia601502.us.archive.org/27/items/valisha-acoffeewithcompbio-test/BWI_SepEpisode_edited_2.mp3"
+    },
+    {
+      "season": 2,
       "number": 8,
       "title": "Academia or Industry? Advice, Regrets and Real Talk",
       "description": "<p>Academia or Industry? Join us as we talk to two scholars in academia and two scientists in industry. They share a day in their life, what they would redo and how they navigated one of the biggest career forks a PhD in computational biology faces. Explore both worlds and the various career paths in both sectors. A must listen if you have a PhD or are a current PhD student.</p><p><br /></p><p>Deciding between academia and industry is a hard question, hear from lived experiences in both fields.</p><p><br /></p><p><b>Links:</b></p><ul><li><a href=\"https://podcast.boston-wib.org\">Season 1 Archive</a></li></ul><p><br /></p><p>Thanks to <b>Amulya Shastry</b> and <b>Yaseswini Neelamraju</b> for editing and management support, <b>Dina Issakova</b> for the cover art and <b>Valisha Shah</b> and <b>Elyse Loveman</b> for social media support.</p><p><br /></p><p>Follow us on LinkedIn: https://www.linkedin.com/in/saba-nafees/ and https://www.linkedin.com/in/sharvarinarendra/</p>",
@@ -11,7 +22,7 @@
       "duration": "52:57",
       "original_audio_url": "",
       "local_file": "audio/season-2-episode-8.m4a",
-      "archive_url": "https://archive.org/download/valisha-acoffeewithcompbio-test/season-2-episode-8.m4a" 
+      "archive_url": "https://archive.org/download/valisha-acoffeewithcompbio-test/season-2-episode-8.m4a"
     },
     {
       "season": 2,

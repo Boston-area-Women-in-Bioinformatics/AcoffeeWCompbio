@@ -15,8 +15,8 @@
         <description>Step into the world where algorithms meet biology! Hosts Lorena Pantano and Alex Bartlett, two dynamic women in science, unravel the complexities and curiosities of computational biology. Each episode, they break down complicated analyses, demystify big data approaches, and share real-world stories from their own bioinformatics research adventures. Whether you’re a seasoned bioinformatician or just bio-curious, Alex and Lorena's engaging banter, expert interviews, and practical tips will guide you through the fascinating process of turning raw biological data into meaningful scientific discoveries. Join them as they make computation in the life sciences accessible—and even a little bit fun!</description>
         <language>en</language>
         <copyright>Lorena Pantano</copyright>
-        <lastBuildDate>Mon, 24 Aug 2026 15:42:17 +0000</lastBuildDate>
-        <pubDate>Mon, 24 Aug 2026 15:42:17 +0000</pubDate>
+        <lastBuildDate>Thu, 01 Oct 2026 15:24:59 +0000</lastBuildDate>
+        <pubDate>Thu, 01 Oct 2026 15:24:59 +0000</pubDate>
         <generator>Self-hosted podcast feed</generator>
         <spotify:countryOfOrigin>us</spotify:countryOfOrigin>
 
@@ -53,6 +53,32 @@
         <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
         <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
 
+        <item>
+            <title>"Who Do You Know?" — Networking in Bioinformatics</title>
+            <guid isPermaLink="false">efc5c3210e49444fadef57b6e2d47c0d296a3fab</guid>
+            <description><![CDATA[<p>Networking is really just talking, but doing it well in bioinformatics takes strategy. Join Dina and Saba as they break down how to make meaningful connections at conferences, local events, and online, plus some unconventional tips and how to keep your network alive through career transitions. Whether you're a grad student or job hunting, you'll leave with practical steps you can use this week.</p><p><br /></p><p><b>Links:</b></p><ul><li><a href="https://podcast.boston-wib.org">Season 1 Archive</a></li></ul><p><br /></p><p>Thanks to <b>Amulya Shastry</b> and <b>Yaseswini Neelamraju</b> for editing and management support, <b>Dina Issakova</b> for the cover art and <b>Valisha Shah</b> and <b>Elyse Loveman</b> for social media support.</p><p><br /></p><p>Follow us on LinkedIn: https://www.linkedin.com/in/saba-nafees/ and https://www.linkedin.com/in/sharvarinarendra/</p>]]></description>
+            <content:encoded><![CDATA[<p>Networking is really just talking, but doing it well in bioinformatics takes strategy. Join Dina and Saba as they break down how to make meaningful connections at conferences, local events, and online, plus some unconventional tips and how to keep your network alive through career transitions. Whether you're a grad student or job hunting, you'll leave with practical steps you can use this week.</p><p><br /></p><p><b>Links:</b></p><ul><li><a href="https://podcast.boston-wib.org">Season 1 Archive</a></li></ul><p><br /></p><p>Thanks to <b>Amulya Shastry</b> and <b>Yaseswini Neelamraju</b> for editing and management support, <b>Dina Issakova</b> for the cover art and <b>Valisha Shah</b> and <b>Elyse Loveman</b> for social media support.</p><p><br /></p><p>Follow us on LinkedIn: https://www.linkedin.com/in/saba-nafees/ and https://www.linkedin.com/in/sharvarinarendra/</p>]]></content:encoded>
+            <pubDate>Thu, 1 Oct 2026 11:03:00 +0000</pubDate>
+            <enclosure url="https://ia601502.us.archive.org/27/items/valisha-acoffeewithcompbio-test/BWI_SepEpisode_edited_2.mp3" length="30123323" type="audio/mpeg"/>
+            <link>https://podcast.boston-wib.org</link>
+
+            <itunes:author>Lorena Pantano</itunes:author>
+            <itunes:explicit>false</itunes:explicit>
+            <itunes:keywords>life science,data science,bioinformatics,computational biology</itunes:keywords>
+            <itunes:duration>30:44</itunes:duration>
+            <itunes:episodeType>full</itunes:episodeType>
+            <itunes:season>2</itunes:season>
+            <podcast:season>2</podcast:season>
+            <itunes:episode>9</itunes:episode>
+            <podcast:episode>9</podcast:episode>
+            <itunes:subtitle>Networking is really just talking, but doing it well in bioinformatics takes strategy. Join Dina and Saba as they break down ...</itunes:subtitle>
+
+            <googleplay:author>Lorena Pantano</googleplay:author>
+            <googleplay:explicit>false</googleplay:explicit>
+
+            <itunes:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
+            <googleplay:image href="https://podcast.boston-wib.org/podcast-artwork-2026.jpg"/>
+        </item>
         <item>
             <title>Academia or Industry? Advice, Regrets and Real Talk</title>
             <guid isPermaLink="false">3cac159210be6a9f4916bd9c0fb1c609050ece99</guid>
